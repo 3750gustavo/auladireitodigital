@@ -20,3 +20,8 @@ direito ao anonimato: apenas quando pra denunciar algo.
 
 direito a informacao: deve ter acesso facil a informacoes do servico/produto como riscos,caracteristicas etc...
 
+direito ao sigilo:
+
+direito de igualdade: direito a igualar os desiguais,tratamento isonomico.
+
+direito a seguranca:

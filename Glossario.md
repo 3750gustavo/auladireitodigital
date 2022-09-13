@@ -25,3 +25,5 @@ direito ao sigilo:
 direito de igualdade: direito a igualar os desiguais,tratamento isonomico.
 
 direito a seguranca:
+
+terceirizacao: ato de repassar um trabalho interno para um terceiro.

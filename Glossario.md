@@ -27,3 +27,15 @@ direito de igualdade: direito a igualar os desiguais,tratamento isonomico.
 direito a seguranca:
 
 terceirizacao: ato de repassar um trabalho interno para um terceiro.
+
+documento eletronico: um documento sendo representado digitalmente.
+
+documento digital: é documento cuja autenticidade e integridade podem ser comprovadas por meio de assinatura eletronica.
+
+assinatura digital: é uma tecnica digital que utiliza métodos criptograficos para autenticar a mensagem.
+
+certificado digital: serve para validar e dar credibilidade a um texto assinado digitalmente.
+
+criptografia simetrica:os dados sao criptografados e decriptografados com a mesma chave
+
+criptografia assimetrica:os dados sao criptografados e decriptografados com chaves diferentes.

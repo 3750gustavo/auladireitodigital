@@ -46,11 +46,22 @@ Software Proprietário:O software proprietário é propriedade de uma organizaç
 
 Software de Domínio Público:Software do domínio público é qualquer software que não tenha restrições legais, de direitos de autor ou de edição associadas a ele.
 
-Adware:
+Adware:Adware é qualquer aplicação de software em que um banner publicitário ou outro material publicitário é exibido ou descarregado enquanto um programa está em execução.
 
-Freeware:
+Freeware:Freeware (não confundir com software livre) é uma programação que é oferecida gratuitamente e é uma classe comum de pequenas aplicações
 
-Shareware:
+Shareware:Shareware é um software comercial que é distribuído gratuitamente aos utilizadores, eventualmente exigindo ou encorajando os utilizadores a pagar pelo suporte contínuo do software.
 
-Software de código aberto:
+Software de código aberto: Software de código aberto é software com código fonte que qualquer pessoa pode inspeccionar, modificar, e melhorar.
 
+ GNU General Public License: A Licença Pública Geral GNU é uma licença livre, copyleft para software e outros tipos de obras. 
+ 
+ Copyleft:
+ 
+ Licença livre:
+ 
+ GNU AGPL:
+ 
+ GNU FDL:
+ 
+ principais licensas github:

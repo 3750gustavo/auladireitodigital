@@ -39,3 +39,18 @@ certificado digital: serve para validar e dar credibilidade a um texto assinado 
 criptografia simetrica:os dados sao criptografados e decriptografados com a mesma chave
 
 criptografia assimetrica:os dados sao criptografados e decriptografados com chaves diferentes.
+
+licença de software: Uma licença de software é um documento que fornece directrizes legalmente vinculativas para a utilização e distribuição de software. As licenças de software fornecem normalmente aos utilizadores finais o direito a uma ou mais cópias do software sem violar os direitos de autor.
+
+Software Proprietário:O software proprietário é propriedade de uma organização ou indivíduo, em oposição ao "software de domínio público", que é distribuído livremente.
+
+Software de Domínio Público:Software do domínio público é qualquer software que não tenha restrições legais, de direitos de autor ou de edição associadas a ele.
+
+Adware:
+
+Freeware:
+
+Shareware:
+
+Software de código aberto:
+

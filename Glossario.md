@@ -56,12 +56,17 @@ Software de código aberto: Software de código aberto é software com código f
 
  GNU General Public License: A Licença Pública Geral GNU é uma licença livre, copyleft para software e outros tipos de obras. 
  
- Copyleft:
+ Copyleft:Copyleft é o conceito que se contrapõe a copyright, é a licença livre que se usa para obras de qualquer natureza. Na maioria das vezes o copyleft é usado quando se quer garantir a distribuição da obra a baixo custo ou de forma gratuita.
  
- Licença livre:
+ Licença livre:é um tipo de licença que concede a pessoa a liberdade de usar, estudar, distribuir e modificar o trabalho (em inglês, é conhecido como Open Source). As licenças livres geralmente estão em conformidade com as Direitos de Autor.
  
- GNU AGPL:
+ GNU AGPL:é uma licença de software livre copyleft. Ele requer que o software licenciado seja compartilhado sob os mesmos termos, garantindo assim que o software licenciado sob ele continue gratuito. Em outras palavras, ele tenta garantir que o software sempre seja totalmente "livre".
  
- GNU FDL:
+ GNU FDL:é uma licença de copyright também conhecida como copyleft. É uma licença de software livre para conteúdo não-programação (texto, imagens, etc.). A ideia por trás dessa licença é que ela não seja tão restritiva quanto algumas outras licenças de direitos autorais.
  
  principais licensas github:
+
+MIT : licenciamento da Massachussets Institute of Technology. Um dos mais usados no GitHub.
+BSD : licenciamento do sistema operacional BSD.
+Apache : licenciamento da Apache Software Foundation.
+ 

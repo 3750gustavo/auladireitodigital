@@ -69,4 +69,10 @@ Software de código aberto: Software de código aberto é software com código f
 MIT : licenciamento da Massachussets Institute of Technology. Um dos mais usados no GitHub.
 BSD : licenciamento do sistema operacional BSD.
 Apache : licenciamento da Apache Software Foundation.
+
+E-learning: é o uso de tecnologia da informação e comunicação na educação. O seu objetivo principal é oferecer um método de ensino interativo e flexível, que permitem aos alunos trabalhar no seu próprio ritmo.
+
+E-market: é uma plataforma de comércio electrónico que permite aos utilizadores encontrar e comprar mercadorias e serviços por meio de uma rede informática.
+
+E-government: é a utilização de tecnologias da informação e comunicação na administração pública.
  
